@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SlickZhang
 - 👀 I’m interested in AIOT/IOT,Embedded System,LLM-Agents
-- 🌱 I’m currently learning Embedded System
+- 🌱 I’m currently studying LLM-Agents with AIOT
 - 📫 How to reach me zhy_5262@126.com
 
 <!---
